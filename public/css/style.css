@@ -1,0 +1,17 @@
+.mt-custom{
+    margin-top: 12rem;
+}
+
+.content {
+    max-height: calc(100vh - 100px); /* Atur tinggi maksimum sesuai dengan tinggi viewport, dikurangi 100px untuk margin atau padding */
+    overflow-y: auto; /* Aktifkan scroll vertikal */
+    overflow-x: hidden;
+    padding: 10px; /* Opsional: tambahkan padding */
+    
+}
+
+.card-a4{
+    width: 749px;
+    margin: 0 auto;
+    font-family: "Times New Roman", Times, serif;
+}
